@@ -1,0 +1,40 @@
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: blue;
+}
+
+.parentBox {
+  height: 400px;
+  width: 700px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  margin: 20px auto;
+  padding: 20px;
+}
+
+.changeBtn {
+  border: none;
+  width: 150px;
+  display: inline-block;
+  margin-left: 550px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: green;
+  color: white;
+  font-size: 18.72px;
+  cursor: pointer;
+}
+
+/* add class */
+
+.addClass {
+  border-radius: 50px;
+  background-color: #f0f0f0;
+}
